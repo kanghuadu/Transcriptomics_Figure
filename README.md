@@ -1,4 +1,4 @@
-# Title: Transcriptomic profiling insights into mRNA and lncRNA regulatory mechanisms of wax biosynthesis in cauliflower
+# 
 ----
 Here we provide the code for the graphs drawn in this article.
 
