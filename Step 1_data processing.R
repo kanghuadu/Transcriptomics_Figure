@@ -30,17 +30,13 @@ num_treatments <- ncol(df_raw03) / num_columns_per_treatment
 treatment_indexes <- rep(1:num_treatments, each = num_columns_per_treatment)
 
 # Check for genes with values greater than 0.5 in at least two replicates per treatment
-filtered_genes <- apply(df_raw03[, -1], 1, function(row) {
+filtered_genes <- apply(HG_data, 1, function(row) {
   treatments <- split(row, treatment_indexes)
-
-  any_above_threshold <- sapply(treatments, function(treatment) {
-    num_above_threshold <- sum(treatment > threshold)
-    num_above_threshold >= 2
+  all_groups <- sapply(treatments, function(treatment) {
+    sum(treatment > threshold) >= 2
   })
-
-  return(any(any_above_threshold))
+  return(any(all_groups))
 })
-
 # 
 # 
 df_filtered <- df_raw03[filtered_genes, ]
