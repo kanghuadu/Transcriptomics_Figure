@@ -21,5 +21,10 @@ Parameters for the software tools involved are described below:
 
 (7) FeatureCounts: version 2.1.0, default parameters; web: [https://subread.sourceforge.net/featureCounts.html](https://subread.sourceforge.net/featureCounts.html)
 
+<img width="685" height="292" alt="image" src="https://github.com/user-attachments/assets/c6e7df80-de2d-4f45-994c-5749be18d3a5" />
+Wild type (YL) and mutant type (WL) cauliflower plants. White bars represent 5 cm.
+
+<img width="685" height="398" alt="image" src="https://github.com/user-attachments/assets/dc3c9b49-2ce3-455d-bb14-29978a49fe08" />
+Characterization analysis of lncRNA. (a) Characterization comparison of lncRNA and mRNA. From outside to inside: mRNA, 1092 lncRNA, lncRNA of WL, lncRNA of YL and DELs. (b) Comparison of mRNA and lncRNA transcript length. (c) Number of mRNA and lncRNA.
 # Cite
 Du, K., Li, Y., Wang, L. et al. Transcriptome profiling of mRNA and lncRNA involved in wax biosynthesis in cauliflower. Sci Data 12, 1511 (2025). [https://doi.org/10.1038/s41597-025-05816-w](https://link.springer.com/article/10.1038/s41597-025-05816-w)
