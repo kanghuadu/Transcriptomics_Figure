@@ -1,4 +1,4 @@
-# [Transcriptome profiling of mRNA and lncRNA involved in wax biosynthesis in cauliflower]()
+# [Transcriptome profiling of mRNA and lncRNA involved in wax biosynthesis in cauliflower](https://link.springer.com/article/10.1038/s41597-025-05816-w)
 
 [![Kanghua](https://img.shields.io/badge/Kanghua-github-blue?logo=github)](https://github.com/kanghuadu)
 
@@ -20,3 +20,6 @@ Parameters for the software tools involved are described below:
 (6) Gffcompare: version 0.12.9, default parameters; web: [https://github.com/gpertea/gffcompare](https://github.com/gpertea/gffcompare）
 
 (7) FeatureCounts: version 2.1.0, default parameters; web: [https://subread.sourceforge.net/featureCounts.html](https://subread.sourceforge.net/featureCounts.html)
+
+# Cite
+Du, K., Li, Y., Wang, L. et al. Transcriptome profiling of mRNA and lncRNA involved in wax biosynthesis in cauliflower. Sci Data 12, 1511 (2025). [https://doi.org/10.1038/s41597-025-05816-w](https://link.springer.com/article/10.1038/s41597-025-05816-w)
